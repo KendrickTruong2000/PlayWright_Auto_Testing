@@ -1,0 +1,6 @@
+{
+    "Browser": "chrome",
+    "Environment": "staging",
+    "LoginUrl": "https://unsplash.com/login?referrer=%2F",
+    "Likes": "https://unsplash.com/@kendrick2000/likes"
+}

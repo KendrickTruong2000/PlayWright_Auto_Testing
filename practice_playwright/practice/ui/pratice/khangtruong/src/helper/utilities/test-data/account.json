@@ -1,0 +1,22 @@
+{
+    "validAccount" : {
+        "username": "admin",
+        "password": "admin"
+    },
+    "missingPassword": {
+        "username": "Admin2",
+        "password": ""
+    },
+    "missingUsername": {
+        "username": "",
+        "password": "qp$#tGu^"
+    },
+    "missingBoth": {
+        "username": "",
+        "password": ""
+    },
+    "invalidBoth": {
+        "username": "Admin1",
+        "password": "qp$#tGu3"
+    }
+}
